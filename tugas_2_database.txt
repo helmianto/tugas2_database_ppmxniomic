@@ -1,0 +1,18 @@
+1. Tupple : Setiap baris tabel di dalam database, bisa disebut juga sebagai row 
+Attribute : Setiap atau satu buah kolom tabel di dalam database, bisa disebut juga sebagai column
+Relation : Istilah lain dari sebuah tabel di dalam relational database
+
+2. a) attribute yang terdapat pada tabel mahasiswa : NPM, Nama, Jenis Kelamin, Jurusan, IPK
+b) 3 buah tupple pada tabel mahasiswa : 
+- tupple yang berisi data mahasiswa dengan nama Andi Gunawan dengan IPK 3.29
+- tupple yang berisi data mahasiswa dengan nama Leshi Puspitasari dengan IPK 3.60
+- tupple yang berisi data mahasiswa dengan nama Maximilianus dengan IPK 3.17
+c) 5 field pada tabel mahasiswa :
+- satu set data atau field pada kolom NPM
+- satu set data atau field pada kolom Nama
+- satu set data atau field pada kolom Jenis Kelamin
+- satu set data atau field pada kolom Jurusan
+- satu set data atau field pada kolom IPK
+
+3. Primary Key : Identifier atau identitas unik di dalam candidate key yang dipilih sehingga membedakan data pada tiap kolom tabel atau relation
+Candidate Key : Satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari sebuah tabel 
